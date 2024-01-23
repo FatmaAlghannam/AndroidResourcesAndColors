@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ComposeResource&amp;Colors</string>
+    <string name="can_count_till_10" />
+    <string name="the_water_has_a_blue_color" />
+    <string name="the_sky_is_blue" />
+</resources>
